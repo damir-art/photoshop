@@ -1,2 +1,3 @@
-# photoshop
-Руководство по Фотошоп
+# Photoshop
+## Настройка Photoshop
+Настройка Photoshop для работы с web (интернетом).
